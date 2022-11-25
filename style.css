@@ -1,0 +1,12 @@
+body{
+    background-color:grey;
+    
+}
+
+#canvas{
+    background-color: aqua;
+    border: 1px solid black;
+    height: 100%;
+    margin:50px;
+    margin-left:86px;
+}
